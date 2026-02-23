@@ -20,7 +20,7 @@ Backend Developer | Go | Python | PostgreSQL
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=888tru&show_icons=true&theme=tokyonight&cache_seconds=3600)
+![GitHub Streak](https://streak-stats.demolab.com?user=888tru&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=888tru&layout=compact&theme=tokyonight&cache_seconds=3600)
 
