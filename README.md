@@ -22,8 +22,7 @@ Backend Developer | Go | Python | PostgreSQL
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=888tru&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=888tru&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=888tru&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 Current Focus
