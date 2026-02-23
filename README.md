@@ -1,17 +1,17 @@
-## Hi there 👋
+# Hi, I'm Zhanbolat 👋
 
-<!--
-**888tru/888tru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Go | Python | Java
 
-Here are some ideas to get you started:
+🚀 Currently building:
+- Telegram job parser bot
+- REST API with Go
+- PostgreSQL automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Learning:
+- Clean Architecture
+- Microservices
+- Docker & Deployment
 
+📫 Contact:
+- Telegram: @ttruer
+- Email: zhanbolatadil000@email.com
