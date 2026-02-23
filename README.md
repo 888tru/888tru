@@ -1,3 +1,5 @@
+
+- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=truer%20Backend%20&fontSize=40)
 # Hi, I'm Zhanbolat 👋  
 Backend Developer | Go | Python | PostgreSQL  
 
@@ -39,5 +41,4 @@ Backend Developer | Go | Python | PostgreSQL
 - Telegram: @ttruer
 - Email: zhanbolatadil000@email.com
 
-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Zhanbolat%20Backend%20Developer&fontSize=40)
-- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/888tru/888tru/blob/output/github-contribution-grid-snake.svg)
