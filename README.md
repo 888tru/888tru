@@ -15,3 +15,5 @@ Backend Developer | Go | Python | Java
 📫 Contact:
 - Telegram: @ttruer
 - Email: zhanbolatadil000@email.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=888tru&show_icons=true&theme=tokyonight)
