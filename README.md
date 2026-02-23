@@ -38,3 +38,6 @@ Backend Developer | Go | Python | PostgreSQL
 
 - Telegram: @ttruer
 - Email: zhanbolatadil000@email.com
+
+- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Zhanbolat%20Backend%20Developer&fontSize=40)
+- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
