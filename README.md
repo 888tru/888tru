@@ -1,6 +1,6 @@
 
 - ![header](https://capsule-render.vercel.app/api?type=waving&color=6a329f,100:1E90FF&height=200&section=header&text=truer%20backend%20&fontSize=40)
-# Hi, I'm Zhanbolat 👋  
+# Hi, I'm Janbolat 👋  
 Backend Developer | Go | Python | PostgreSQL  
 
 🚀 I build:
